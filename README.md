@@ -1,1 +1,3 @@
 # SentimentAnalysis-US-Airline-Tweets
+
+A binary text classifier is built in this project to classify the sentiment behind the text. Various NLP preprocessing techniques are used to clean the data and utilize the LSTM layers to build the text classifier. The dataset used contains more than 14000 tweets data samples classified into 3 types: positive, negative, neutral. Dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) The main aim of the project is to build a machine learning model to accurately classify whether customers are saying positive or negative. 
